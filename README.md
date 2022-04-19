@@ -7,7 +7,7 @@ This project is a backend project that uses insomnia to create a E-commerce Stor
 - [Contributions](#contributions)
 - [Tests](#tests)
 - [License](#license)
-- [Questions](#questions)
+
 ## Installation
 To begin this project you must first install the Dev Dependencies.
 ## Usage
